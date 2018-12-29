@@ -1,0 +1,1 @@
+﻿ABSTRACT2 = "REMOVE FROM"

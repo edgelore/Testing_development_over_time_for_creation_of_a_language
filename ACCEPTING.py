@@ -1,0 +1,1 @@
+﻿ACCEPTING = "AGREE TO"

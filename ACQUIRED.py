@@ -1,0 +1,1 @@
+﻿ACQUIRED = "OBTAIN NEW"

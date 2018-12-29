@@ -1,0 +1,1 @@
+﻿ADAPTIVE = "ABLE TO ADAPT"

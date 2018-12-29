@@ -1,0 +1,1 @@
+﻿ABILITY3 = "SKILL"

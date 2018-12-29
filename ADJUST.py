@@ -1,0 +1,1 @@
+﻿ADJUST = "EDIT AND MODIFY"

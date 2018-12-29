@@ -1,0 +1,1 @@
+﻿ACTIVATED2 = "IN EFFECT"
